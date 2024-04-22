@@ -73,4 +73,4 @@ def display_board(HANGMAN_PICS, missed_letters, correct_letters, secret_word):
         if secret_word[i] in correct_letters:
             blanks = blanks[:i] + secret_word[i] + blanks[i+1:]
 
-    print(' '.join(blanks))
+    print(' '.join(blanks)) 

@@ -15,6 +15,14 @@ Pygame: Install it with: "pip install pygame"
 
 Thonny: Get it with: "sudo apt install thonny"
 
+# How to run the game🏃‍♂️
+
+Get the game files:
+
+"git clone https://github.com/DaMaTu/test-game-its23.git"
+
+In Thonny: Locate the game.py file in Thonny. Press run! 🎉
+
 # How to play 🎮
 
 Guess a word by typing a letter or the whole word

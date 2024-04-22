@@ -1,3 +1,4 @@
+=======
 # Hangman ☠
 
 A fun and exciting word guessing game

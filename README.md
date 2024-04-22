@@ -33,6 +33,6 @@ Each wrong guess will cost you 😬
 
 Owner: DaMaTu
 
-Contributors: Sync98, R5nnar
+Contributors: DaMaTu, Sync98, R5nnar
 
 Our gmails: matthias.jarvet@gmail.com, karl-robert.kutt@voco.ee, rannar.jarvsoo@voco.ee 😁

@@ -2,6 +2,9 @@
 
 A fun and exciting word guessing game
 
+![image](https://github.com/DaMaTu/test-game-its23/assets/72303125/110a646e-a720-49e3-92fd-11dc6fb44904)
+
+
 # Recommended Hardware 💻
 
 Any type of Linux works. Here's what you'll need to get started:

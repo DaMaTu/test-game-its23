@@ -12,8 +12,6 @@ Any type of Linux works. Here's what you'll need to get started:
 
 Git: Download it using the command "sudo apt-get install git-all" (Ubuntu/Debian)
 
-Pygame: Install it with: "pip install pygame"
-
 Thonny: Get it with: "sudo apt install thonny"
 
 # How to run the game🏃‍♂️
